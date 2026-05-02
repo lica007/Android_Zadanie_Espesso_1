@@ -1,0 +1,53 @@
+{
+    "name": "visibilityOfTextOnTheMainPage",
+    "start": 1777740287725,
+    "stop": 1777740293136,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "f67139ab-43e6-4ffb-ae0f-3649ee2cc1fd",
+    "historyId": "f4f00809cb04eba12ff4403e61ae0a86",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.VisibilityTest.visibilityOfTextOnTheMainPage",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.VisibilityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "visibilityOfTextOnTheMainPage"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.VisibilityTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(57)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
