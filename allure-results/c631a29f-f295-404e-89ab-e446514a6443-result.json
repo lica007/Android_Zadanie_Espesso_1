@@ -1,0 +1,53 @@
+{
+    "name": "openSettingsTest",
+    "start": 1777798770430,
+    "stop": 1777798776952,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "c631a29f-f295-404e-89ab-e446514a6443",
+    "historyId": "4e8f300491b9bba480ebd62875e54c0c",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.IntentOpenSettingsTest.openSettingsTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.IntentOpenSettingsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "openSettingsTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.IntentOpenSettingsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(66)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
